@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setup(
     name="sentry-dingtalk-notification",
     version='1.0.6',
-    author='panda',
+    author='SagiMedina',
     author_email='sagimedina@gmail.com',
     url='https://github.com/SagiMedina/sentry-dingtalk',
     description='A Sentry extension which send errors stats to DingDing',
