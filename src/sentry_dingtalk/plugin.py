@@ -14,14 +14,14 @@ class DingTalkPlugin(NotificationPlugin):
     """
     Sentry plugin to send error counts to DingTalk.
     """
-    author = 'panda'
-    author_url = 'https://github.com/py-bar/sentry-dingtalk'
-    version = '1.0.5'
+    author = 'SagiMedina'
+    author_url = 'https://github.com/SagiMedina/sentry-dingtalk'
+    version = '1.0.6'
     description = 'Send error counts to DingTalk.'
     resource_links = [
-        ('Source', 'https://github.com/py-bar/sentry-dingtalk'),
-        ('Bug Tracker', 'https://github.com/py-bar/sentry-dingtalk/issues'),
-        ('README', 'https://github.com/py-bar/sentry-dingtalk/blob/master/README.md'),
+        ('Source', 'https://github.com/SagiMedina/sentry-dingtalk'),
+        ('Bug Tracker', 'https://github.com/SagiMedina/sentry-dingtalk/issues'),
+        ('README', 'https://github.com/SagiMedina/sentry-dingtalk/blob/master/README.md'),
     ]
 
     slug = 'DingTalk'
